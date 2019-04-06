@@ -1,0 +1,10 @@
+# Spacemacs
+
+**  安装spacemacs
+==git clone https://github.com/syl20bnr/spacemacs.git  ~/.emacs.d -b develop==
+
+## 安装字体
+==https://github.com/adobe-fonts/source-code-pro==
+
+## 安装拼写检查
+==brew install ispell==
